@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+polyline
+qrcode
+pillow
+aiofiles
