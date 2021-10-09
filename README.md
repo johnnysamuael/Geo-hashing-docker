@@ -8,7 +8,7 @@
 - Decode the encrypted string back to coordinates
 - Using Fast API, we can make API calls to convert any coordinates to string and decode it back.
 - Inbuilt QR Code generation function, to convert encoded string to QR
-- Hosted on Deta using CLI
+- Can be hosted on any docker hosting
 
 ## Docker Installation
 
